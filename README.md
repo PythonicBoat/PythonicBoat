@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning react and mongodb
 - 👯 I’m looking to collaborate on Hacktoberfest
 - 🤔 I’m looking for help with discord bots
-- 💬 Ask me about python :python:
+- 💬 Ask me about python 
 - 📫 How to reach me: hypenation404@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: love app development
