@@ -14,14 +14,7 @@
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://discord.gg/"><img src="https://img.shields.io/discord/.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-<br>
-<a href="https://github.com/PythonicBoat/stargazers"><img src="https://img.shields.io/github/stars/PythonicBoat/" alt="Stars Badge"/></a>
-<a href="https://github.com/PythonicBoat/members"><img src="https://img.shields.io/github/forks/PythonicBoat/" alt="Forks Badge"/></a>
-<a href="https://github.com/PythonicBoat/pulls"><img src="https://img.shields.io/github/issues-pr/PythonicBoat/" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/PythonicBoat/issues"><img src="https://img.shields.io/github/issues/PythonicBoat/" alt="Issues Badge"/></a>
-<a href="https://github.com/PythonicBoat/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/PyhtonicBoat/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/PythonicBoat/license"><img src="https://img.shields.io/github/license/PythonicBoat/?color=2b9348" alt="License Badge"/></a>
+<a href="https://discord.gg/X4CJaAHWev"><img src="https://img.shields.io/discord/.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 
 ## Github Stats
 
