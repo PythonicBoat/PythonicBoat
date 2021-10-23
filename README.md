@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my github profile
 - 🌱 I’m currently learning react and flask
 - 👯 I’m looking to collaborate on Hacktoberfest
-- 🤔 I’m looking for help with discord bots
+- :handshake: I’m looking to help with discord bots
 - 💬 Ask me about python 
 - 📫 How to reach me: hypenation404@gmail.com
 - 😄 Pronouns: he/him
