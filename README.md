@@ -3,7 +3,7 @@
 ## About me:
 
 - 🔭 I’m currently working on my github profile
-- 🌱 I’m currently learning react and flask
+- 🌱 I’m currently learning typescript
 - 👯 I’m looking to collaborate on Hacktoberfest
 - :handshake: I’m looking to help with discord bots
 - 💬 Ask me about python 
