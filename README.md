@@ -16,8 +16,6 @@
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://discord.gg/X4CJaAHWev"><img src="https://img.shields.io/discord/775610059786158111.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 
-![discord.com/app](https://discord.c99.nl/widget/theme-2/722343830149398539.png)
-
 ## Github Stats
 
 ![PythonicBoat's Github stats](https://github-readme-stats.vercel.app/api?username=PythonicBoat&show_icons=true&theme=dark)
