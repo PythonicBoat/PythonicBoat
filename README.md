@@ -23,4 +23,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PythonicBoat)
 
-![Visitor Count](https://profile-counter.glitch.me/PythonicBoat/count.svg)
+![](https://komarev.com/ghpvc/?username=PythonicBoat)
