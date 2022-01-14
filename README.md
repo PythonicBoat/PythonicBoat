@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my developer skills
 - 🌱 I’m currently learning api development
 - 👯 I’m looking forward to team-up for hackathons
-- :handshake: I’m looking to help with discord bots
+- :handshake: I’m looking to help with automation scripts
 - 💬 Ask me about python 
 - 📫 How to reach me: hypenation404@gmail.com
 - 😄 Pronouns: he/him
