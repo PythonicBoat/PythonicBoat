@@ -19,7 +19,7 @@
   
 ## Github Stats
 
-![PythonicBoat's Github stats](https://github-readme-stats.vercel.app/api?username=PythonicBoat&show_icons=true&theme=dark)
+![PythonicBoat's Github stats](https://github-readme-stats.vercel.app/api?username=pythonicboat&theme=dracula&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PythonicBoat)
 
