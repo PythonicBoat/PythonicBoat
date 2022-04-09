@@ -1,4 +1,4 @@
-<h2 align='center'>Hey there, I am PythonicBoat! 👋</h2>
+<h3 align='center'>Hey there, I am PythonicBoat! 👋</h3>
 
 <h2 align='left'>About me:</h2>
 <div>
@@ -8,12 +8,12 @@
 
     🔭 I’m currently learning api development
     👯 I’m looking forward to team-up for hackathons
-    :handshake: I’m looking to help with automation scripts
+    🤝 I’m looking to help with automation scripts 
     💬 Ask me about python 
     📫 How to reach me: hypenation404@gmail.com
     😄 Pronouns: he/him
     ⚡ Fun fact: love app development
-    :robot: Invite my latest creation https://dsc.gg/auda
+    🤖 Invite my latest creation https://dsc.gg/auda
 </div>
 
 <div align="center">
