@@ -4,7 +4,6 @@
 [![discord:playing](https://dev.discordprofiles.me/badge/playing/722343830149398539)](https://discord.com/users/722343830149398539)
 [![discord:vscode](https://dev.discordprofiles.me/badge/vscode/722343830149398539)](https://discord.com/users/722343830149398539)
 [![discord:spotify](https://dev.discordprofiles.me/badge/spotify/722343830149398539)](https://dev.discordprofiles.me/openspotify/722343830149398539)
-[![discord:chat](https://img.shields.io/discord/775610059786158111)](https://dsc.gg/auda-dev)
 ![profile](https://komarev.com/ghpvc/?username=PythonicBoat)
 
 <h2 align='left'>About me:</h2>
