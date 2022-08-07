@@ -8,7 +8,7 @@
 
 <h2 align='left'>About me:</h2>
 <div>
-    I'm a full stack developer who started off their FOSS journey in october 2021, with a passion for building purposeful and intuitive native applications. I'm currently working on a project which is a collection of web-tools of daily utility https://etools.ml
+    I'm a full stack developer who started off their FOSS journey in october 2021, with a passion for building purposeful and intuitive native applications. I'm currently working on a project which is a collection of web-tools of daily utility https://etools.tech
 </div>
 <br>
 
@@ -17,10 +17,9 @@
 👯 I’m looking forward to team-up for hackathons
 🤝 I’m looking to help with automation scripts 
 💬 Ask me about python 
-📫 How to reach me: [mail]hypenation404@gmail.com
+📫 How to reach me: [mail](mail@hypenation404@gmail.com)
 😄 Pronouns: he/him
 ⚡ Fun fact: love app development
-🤖 Invite my latest creation https://dsc.gg/auda
 ```
 
 ## Github Stats
