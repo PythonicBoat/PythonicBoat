@@ -17,7 +17,7 @@
 👯 I’m looking forward to team-up for hackathons
 🤝 I’m looking to help with automation scripts 
 💬 Ask me about python 
-📫 How to reach me: [mail](mail@hypenation404@gmail.com)
+📫 How to reach me: hypenation404@gmail.com
 😄 Pronouns: he/him
 ⚡ Fun fact: love app development
 ```
@@ -29,7 +29,7 @@
 
 ## Tech Stack
 
-![Tech-stack](https://skillicons.dev/icons?i=python,nodejs,javascript,html,css,electron,mysql,react,bash,nginx)
+![Tech-stack](https://skillicons.dev/icons?i=python,nodejs,javascript,html,css,electron,mysql,react,bash,nginx,c)
 
 ## My Github Streak
 <p align="center">
