@@ -1,10 +1,9 @@
 <h2 align='center'>Hey there, I am PythonicBoat! 👋</h2>
 
-[![discord:status](https://dev.discordprofiles.me/badge/status/722343830149398539)](https://discord.com/users/722343830149398539)
-[![discord:playing](https://dev.discordprofiles.me/badge/playing/722343830149398539)](https://discord.com/users/722343830149398539)
-[![discord:vscode](https://dev.discordprofiles.me/badge/vscode/722343830149398539)](https://discord.com/users/722343830149398539)
-[![discord:spotify](https://dev.discordprofiles.me/badge/spotify/722343830149398539)](https://dev.discordprofiles.me/openspotify/722343830149398539)
-![profile](https://komarev.com/ghpvc/?username=PythonicBoat)
+<p align="center">
+<img src="https://dev.discordprofiles.me/badge/status/722343830149398539" alt="https://discord.com/users/722343830149398539" />
+</p>
+
 
 <h2 align='left'>About me:</h2>
 <div>
@@ -24,8 +23,10 @@
 
 ## Github Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=pythonicboat&theme=radical&show_icons=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pythonicboat&layout=compact)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=pythonicboat&theme=radical&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythonicboat&layout=compact" />
+</p>
 
 ## Tech Stack
 
@@ -39,9 +40,7 @@
 
 ## Github Activity
 
-```
-<!--ACTIVITY-->
-```
+[![Pythonicboat's stats](https://activity-graph.herokuapp.com/graph?username=pythonicboat&theme=react-dark)](https://github.com/pythonicboat)
 
 ## Joke of the Day
 
