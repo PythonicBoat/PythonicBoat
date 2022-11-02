@@ -1,15 +1,15 @@
-<h2 align='center'>Hey there, I am PythonicBoat! 👋</h2>
+<h2 align='center'>Hey there! 👋</h2>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://dev.discordprofiles.me/badge/status/722343830149398539" />
 <img src="https://dev.discordprofiles.me/badge/playing/722343830149398539" />
 <img src="https://dev.discordprofiles.me/badge/vscode/722343830149398539" />
-<img src="https://dev.discordprofiles.me/badge/spotify/722343830149398539" />
-</p>
+<img src="https://spotifystatus.rylatt.me/6mzucot7ycg9ptw7zzu6p8wfi" />
+</p> -->
 
 <h2 align='left'>About me:</h2>
 <div>
-    I'm a full stack developer and computer science major first year student who started off their FOSS journey in october 2021, with a passion for building purposeful and intuitive native applications. I'm currently working on a project which is a collection of web-tools of daily utility https://etools.tech
+    I'm a full stack developer and computer science major first year student who started off their FOSS journey in october 2021, with a passion for building purposeful and intuitive cross-platform applications. I'm currently working on a project which is a collection of web-tools of daily utility https://cdn.etools.tech
 </div>
 <br>
 
@@ -26,14 +26,13 @@
 ## Github Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pythonicboat&theme=light&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythonicboat&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=pythonicboat&theme=dark&show_icons=true"/>
 </p>
 
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,nodejs,javascript,html,css,electron,mysql,react,bash,nginx,c")
+<img src="https://skillicons.dev/icons?i=python,nodejs,javascript,html,css,electron,mysql,react,bash,nginx,c,linux,vscode,git,mongodb,markdown,github,flask,discord,cloudflare,vercel,fastapi,nextjs,bootstrap,batchfile,")
 </p>
      
 ## My Github Streak
