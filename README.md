@@ -36,6 +36,7 @@
 </p>
      
 ## My Github Streak
+    
 <p align="center">
   <a href="https://github.com/Pythonicboat/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pythonicboat#version3"/>
   </a>
@@ -43,7 +44,7 @@
 
 ## Github Activity
 
-[![Pythonicboat's stats](https://activity-graph.herokuapp.com/graph?username=pythonicboat&theme=react-dark)](https://github.com/pythonicboat)
+[![Pythonicboat's stats](https://github-readme-activity-graph.cyclic.app/graph?username=pythonicboat&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/pythonicboat)
 
 ## Joke of the Day
 
