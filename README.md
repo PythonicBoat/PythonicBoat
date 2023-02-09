@@ -14,7 +14,7 @@
 <br>
 
 ```
-🔭 I’m currently learning api development
+🔭 I’m currently learning about web3
 👯 I’m looking forward to team-up for hackathons
 🤝 I’m looking to help with automation scripts 
 💬 Ask me about python 
