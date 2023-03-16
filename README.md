@@ -9,7 +9,7 @@
 
 <h2 align='left'>About me:</h2>
 <div>
-    I'm a full stack developer and computer science major first year student who started off their FOSS journey in october 2021, with a passion for building purposeful and intuitive cross-platform applications. I'm currently working on a project which is a collection of web-tools of daily utility https://cdn.etools.tech
+    I'm a full stack developer and computer science major first year student who started off their FOSS journey in october 2021, with a passion for building purposeful and intuitive cross-platform applications. I'm currently working on a project which is a collection of web-tools of daily utility https://etools.tech
 </div>
 <br>
 
@@ -32,7 +32,7 @@
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,nodejs,javascript,html,css,electron,mysql,react,bash,nginx,c,linux,vscode,git,mongodb,markdown,github,flask,discord,cloudflare,vercel,fastapi,nextjs,bootstrap,autocad")
+<img src="https://skillicons.dev/icons?i=python,nodejs,javascript,html,css,electron,mysql,react,bash,nginx,c,linux,vscode,git,mongodb,markdown,github,flask,discord,cloudflare,vercel,fastapi,nextjs,bootstrap,autocad,gatsby,figma,solidity,ipfs")
 </p>
      
 ## My Github Streak
