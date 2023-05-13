@@ -32,7 +32,7 @@
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,nodejs,javascript,html,css,electron,mysql,react,bash,nginx,c,linux,vscode,git,mongodb,markdown,github,flask,discord,cloudflare,vercel,fastapi,nextjs,bootstrap,autocad,gatsby,figma,solidity,ipfs")
+<img src="https://skillicons.dev/icons?i=python,nodejs,javascript,html,css,electron,mysql,react,bash,nginx,c,linux,vscode,git,mongodb,markdown,github,flask,discord,cloudflare,vercel,fastapi,nextjs,bootstrap,autocad,gatsby,figma,solidity,ipfs,django")
 </p>
      
 ## My Github Streak
