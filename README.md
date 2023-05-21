@@ -1,61 +1,62 @@
-<h2 align='center'>Hey there! 👋</h2>
+<h2 align='center'></h2>
+<img width=100% title="Hey there! 👋" alt="Hey there! 👋" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey_there!👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<!-- <p align="center">
-<img src="https://dev.discordprofiles.me/badge/status/722343830149398539" />
-<img src="https://dev.discordprofiles.me/badge/playing/722343830149398539" />
-<img src="https://dev.discordprofiles.me/badge/vscode/722343830149398539" />
-<img src="https://spotifystatus.rylatt.me/6mzucot7ycg9ptw7zzu6p8wfi" />
-</p> -->
+<h2 align="center"><br>
+  <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> About me <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
+</h2>
 
-<h2 align='left'>About me:</h2>
 <div>
-    I'm a full stack developer and computer science major first year student who started off their FOSS journey in october 2021, with a passion for building purposeful and intuitive cross-platform applications. I'm currently working on a project which is a collection of web-tools of daily utility https://etools.tech
+    I'm a full-stack web developer more proficient in backend development, who started off his FOSS journey in June, 2020. As a freshman and Computer Science student, I am building some notesworthy projects. Read more about me at https://yashvs.me!
 </div>
 <br>
 
 ```
-🔭 I’m currently learning about web3
+🔭 I’m currently learning about AI Systems
 👯 I’m looking forward to team-up for hackathons
 🤝 I’m looking to help with automation scripts 
 💬 Ask me about python 
 😄 Pronouns: he/him
-⚡ Fun fact: love app development
-💙 Interested in Cloud Computing and Data Security and Integrity
+⚡ Fun fact: love cloud development
+💙 Interested in AI and Cloud Computing 
 ```
 
-## Github Stats
+<h2 align="center"><br>
+  <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> Github Stats <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
+</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pythonicboat&theme=dark&show_icons=true"/>
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&preferLogin=false">    <img  alt="pythonicboat's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/pythonicboat?cardType=level-alternate&theme=react&preferLogin=false" />  </a>
 </p>
 
-## Tech Stack
+<h2 align="center"><br>
+  <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> Tech Stack <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
+</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,nodejs,javascript,html,css,electron,mysql,react,bash,nginx,c,linux,vscode,git,mongodb,markdown,github,flask,discord,cloudflare,vercel,fastapi,nextjs,bootstrap,autocad,gatsby,figma,solidity,ipfs,django")
 </p>
-     
-## My Github Streak
+
+<h2 align="center"><br>
+  <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> Github Streak <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
+</h2>
     
 <p align="center">
   <a href="https://github.com/Pythonicboat/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pythonicboat#version3"/>
   </a>
 </p>
 
-## Github Activity
+<h2 align="center"><br>
+  <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> Git Activity <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
+</h2>
 
-[![Pythonicboat's stats](https://github-readme-activity-graph.cyclic.app/graph?username=pythonicboat&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/pythonicboat)
-
-## Joke of the Day
-
-<p align="center">
-<img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
-</p>
+[![Pythonicboat's stats](https://github-readme-activity-graph.cyclic.app/graph?username=pythonicboat&bg_color=dracula&color=&line=&point=24292e&area=true&hide_border=true)](https://github.com/pythonicboat)
 
 > Looking for older repositories? They can be found [here](https://github.com/pythonicboat-archive)
 
-<h2 align='center'>Thanks for visiting my profile!</h2>
+<h3 align='center'>Thanks for visiting my profile!</h3>
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=PythonicBoat">
 </p>
+
+<img width=100% title="" alt=""  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
