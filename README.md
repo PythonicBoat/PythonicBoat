@@ -33,7 +33,7 @@
 </h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,nodejs,javascript,html,css,electron,mysql,react,bash,nginx,c,linux,vscode,git,mongodb,markdown,github,flask,discord,cloudflare,vercel,fastapi,nextjs,bootstrap,autocad,gatsby,figma,solidity,ipfs,django")
+<img src="https://skillicons.dev/icons?i=python,nodejs,javascript,html,css,electron,mysql,react,bash,nginx,c,linux,vscode,git,mongodb,markdown,github,flask,discord,cloudflare,vercel,fastapi,nextjs,bootstrap,autocad,figma,solidity,ipfs,django,java")
 </p>
 
 <h2 align="center"><br>
@@ -55,8 +55,6 @@
 
 <h3 align='center'>Thanks for visiting my profile!</h3>
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=PythonicBoat">
 </p>
 
 <img width=100% title="" alt=""  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
