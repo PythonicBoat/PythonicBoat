@@ -6,19 +6,9 @@
 </h2>
 
 <div>
-    I'm a full-stack web developer more proficient in backend development, who started off his FOSS journey in June, 2020. As a freshman and Computer Science student, I am building some notesworthy projects. Read more about me at https://yashvs.me!
-</div>
+    I'm a full-stack web developer more proficient in backend and cloud development, who started off his FOSS journey in June, 2020. As a Sophomore and Computer Science student, I am building some notesworthy projects while being a full-time developer at <a href="https://mlsakiit.com">MLSA</a> and <a href="https://dsckiit.in">GDSC</a>. To know more about me, checkout my <a href="https://yashvs.me">Portfolio</a>!
+<div>
 <br>
-
-```
-🔭 I’m currently learning about AI Systems
-👯 I’m looking forward to team-up for hackathons
-🤝 I’m looking to help with automation scripts 
-💬 Ask me about python 
-😄 Pronouns: he/him
-⚡ Fun fact: love cloud development
-💙 Interested in AI and Cloud Computing 
-```
 
 <h2 align="center"><br>
   <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> Github Stats <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
