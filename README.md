@@ -15,7 +15,7 @@
 </h2>
 
 <p align="center">
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&preferLogin=false">    <img  alt="pythonicboat's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/pythonicboat?cardType=level-alternate&theme=react&preferLogin=false" />  </a>
+<img src="">
 </p>
 
 <h2 align="center"><br>
