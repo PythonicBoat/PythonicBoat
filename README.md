@@ -6,7 +6,7 @@
 </h2>
 
 <div>
-    I'm a full-stack web developer more proficient in backend and cloud development, who started off his FOSS journey in June, 2020. As a Sophomore and Computer Science student, I am building some notesworthy projects while being a full-time developer at <a href="https://mlsakiit.com">MLSA</a> and <a href="https://dsckiit.in">GDSC</a>. To know more about me, checkout my <a href="https://yashvs.me">Portfolio</a>!
+    I'm a full-stack web developer more proficient in backend and cloud development, who started off his FOSS journey in June, 2020. As a Junior year Computer Science student, I am building some notesworthy projects while being a full-time developer at <a href="https://mlsakiit.com">MLSA</a> and <a href="https://dsckiit.in">GDSC</a>. To know more about me, checkout my <a href="https://yashvs.vercel.app">Portfolio</a>!
 <div>
 <br>
 
@@ -15,7 +15,7 @@
 </h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,nodejs,javascript,html,css,electron,mysql,react,bash,nginx,c,linux,vscode,git,mongodb,markdown,github,flask,discord,cloudflare,vercel,fastapi,nextjs,bootstrap,autocad,figma,solidity,ipfs,django,java")
+<img src="https://skillicons.dev/icons?i=python,nodejs,javascript,html,css,mysql,react,bash,nginx,c,linux,vscode,git,mongodb,markdown,github,flask,discord,cloudflare,vercel,fastapi,nextjs,bootstrap,autocad,figma,solidity,django,aws,java,bun&perline=10")
 </p>
 
 <h2 align="center"><br>
