@@ -15,7 +15,7 @@
 </h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,nodejs,javascript,html,css,mysql,react,bash,nginx,c,linux,vscode,git,mongodb,markdown,github,flask,discord,cloudflare,vercel,fastapi,nextjs,bootstrap,autocad,figma,solidity,django,aws,java,bun&perline=10")
+<img src="https://skillicons.dev/icons?i=python,nodejs,javascript,html,css,mysql,react,bash,nginx,c,linux,vscode,git,mongodb,markdown,github,flask,discord,cloudflare,fastapi,django,autocad,figma,solidity,nextjs,vercel,aws,java,shadcn,bun&perline=10")
 </p>
 
 <h2 align="center"><br>
