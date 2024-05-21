@@ -6,6 +6,7 @@ async function updateReadme() {
     const url = `https://api.github.com/users/${username}`;
     
     try {
+        // Fetch GitHub profile data
         const response = await axios.get(url);
         const { 
             login, 
@@ -22,26 +23,25 @@ async function updateReadme() {
             following
         } = response.data;
 
-        const readmeContent = `
-# ${login}'s GitHub Profile
+        // Prepare data object
+        const data = {
+            username: login,
+            bio: bio || 'No bio available',
+            location: location || 'No location available',
+            company: company || 'No company available',
+            blog: blog || 'No blog available',
+            followers,
+            following,
+            public_repos,
+            public_gists,
+            account_created_at: new Date(created_at).toLocaleDateString(),
+            last_updated_at: new Date(updated_at).toLocaleDateString(),
+            html_url
+        };
 
-- **Username:** [${login}](${html_url})
-- **Bio:** ${bio || 'No bio available'}
-- **Location:** ${location || 'No location available'}
-- **Company:** ${company || 'No company available'}
-- **Blog:** ${blog ? `[${blog}](${blog})` : 'No blog available'}
-- **Followers:** ${followers}
-- **Following:** ${following}
-- **Public Repositories:** ${public_repos}
-- **Public Gists:** ${public_gists}
-- **Account Created At:** ${new Date(created_at).toLocaleDateString()}
-- **Last Updated At:** ${new Date(updated_at).toLocaleDateString()}
-
-Updated on: ${new Date().toLocaleDateString()}
-        `;
-
-        fs.writeFileSync('README.md', readmeContent);
-        console.log('README.md updated successfully.');
+        // Write data to data.json file
+        fs.writeFileSync('data.json', JSON.stringify(data, null, 2));
+        console.log('Data updated successfully in data.json.');
     } catch (error) {
         console.error('Error fetching data from GitHub:', error);
     }
