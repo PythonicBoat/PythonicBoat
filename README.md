@@ -49,7 +49,4 @@
 
 <img width=100% title="" alt=""  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 <div align='center'>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=pythonicboat&label=Profile%20Views&color=1&icon=0&pretty=false" />
-</a>
 </div>
