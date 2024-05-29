@@ -36,7 +36,8 @@ async function updateReadme() {
             public_gists,
             account_created_at: new Date(created_at).toLocaleDateString(),
             last_updated_at: new Date(updated_at).toLocaleDateString(),
-            html_url
+            html_url,
+            updatedate: new Date().toLocaleDateString() // New field for the update date
         };
 
         // Write data to data.json file
