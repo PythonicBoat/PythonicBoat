@@ -25,11 +25,13 @@ jobs:
         run: node update_readme.js
 
       - name: Commit changes
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+          GH_NAME: ${{ secrets.GH_NAME }}
+          GH_EMAIL: ${{ secrets.GH_EMAIL }}
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
+          git config --local user.email "${GH_EMAIL}"
+          git config --local user.name "${GH_NAME}"
           git add .
           git commit -m "Update README"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          git push https://x-access-token:${GH_PAT}@github.com/your-username/your-repo.git
