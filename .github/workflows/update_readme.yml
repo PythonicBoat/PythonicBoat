@@ -30,8 +30,8 @@ jobs:
           GH_NAME: ${{ secrets.GH_NAME }}
           GH_EMAIL: ${{ secrets.GH_EMAIL }}
         run: |
-          git config user.email "${GH_EMAIL}"
-          git config user.name "${GH_NAME}"
+          git config --global user.email vs21yash@gmail.com
+          git config --global user.name pythonicboat
           git add .
           git commit -m "Update README"
           git push https://x-access-token:${GH_PAT}@github.com/pythonicboat/pythonicboat.git
