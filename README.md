@@ -50,3 +50,14 @@
 <img width=100% title="" alt=""  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 <div align='center'>
 </div>
+
+```
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/PythonicBoat/PythonicBoat/blob/main/matrix.gif?raw=true');]{x0000}$}
+```
+
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/PythonicBoat/PythonicBoat/blob/main/matrix.gif?raw=true');]{x0000}$}
+```
