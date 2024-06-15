@@ -70,5 +70,5 @@
 
 <img width=100% title="" alt=""  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 <div align='center'>
+<a href="https://hits.sh/github.com/PythonicBoat/"><img alt="Hits" src="https://hits.sh/github.com/PythonicBoat.svg?label=Vistors&extraCount=3000"/></a>
 </div>
-
