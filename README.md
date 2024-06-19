@@ -29,24 +29,14 @@
 -->
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python&perline=1" />
+<img src="https://skillicons.dev/icons?i=python,mysql,fastapi,flask,html,css,bash,vscode,git,c&perline=10" />
 </p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,fastapi,flask&perline=3" />
+<img src="https://skillicons.dev/icons?i=linux,django,nginx,discord,markdown,github,react,mongodb,figma,cloudflare&perline=10" />
 </p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bash,vscode,git&perline=5" />
+<img src="https://skillicons.dev/icons?i=solidity,nextjs,prisma,vercel,aws,java,npm,yarn,pnpm,bun&perline=10" />
 </p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,linux,django,nginx,discord,markdown,github&perline=7" />
-</p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,mongodb,figma,cloudflare,solidity,nextjs,prisma,vercel,aws&perline=9" />
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,npm,yarn,pnpm,bun&perline-11"
-</p>
-
-
 
 <h2 align="center"><br>
    Badges Board
