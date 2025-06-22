@@ -10,14 +10,8 @@
 
   <div style="flex: 1; padding: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=pythonicboat&rank_icon=percentile&bg_color=0000&text_color=aaa&title_color=70a5fd&icon_color=70a5fd&show_icons=true&border_color=0d1117&border_radius=20" alt="GitHub Stats" style="max-width: 100%;">
+     <img src="https://streak-stats.demolab.com/?user=pythonicboat&theme=tokyonight&hide_border=true&border_radius=0&background=FFFFFF00&hide_longest_streak=true" >
   </div>
-
-  <div style="flex: 1; padding: 10px;">
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=pythonicboat&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" style="max-width: 100%;">
-    </a>
-  </div>
-
 </div>
 
 <h2 align="center"><br>
