@@ -6,7 +6,7 @@
    GitHub Stats 
 </h2>
 
-<div style="display: flex; width: 100%; gap: 5px;">
+<div style="display: flex; width: 100%; gap: 10px;">
   <div style="flex: 1;">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=pythonicboat&rank_icon=percentile&bg_color=0000&text_color=aaa&title_color=70a5fd&icon_color=70a5fd&show_icons=true&border_color=0d1117&border_radius=20" 
